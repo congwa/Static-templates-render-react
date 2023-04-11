@@ -4,8 +4,8 @@ react ssr的一种应用
 
 实现目的：熟悉一下ssr
 
-vite版本-main分支
-babel版本- babel分支
+- vite版本-main分支
+- babel版本- babel分支
 
 ## 过程
 
