@@ -1,12 +1,14 @@
 # 用react作为模版进行渲染
 
-react ssr的一种应用
+react ssr的一种应用 
+
+vite版本
 
 ## 过程
 
 1. 使用react静态渲染api（ReactDOMServer.renderToStaticMarkup）把react转化为字符串
-2. 把字符串插入模版(HtmlBody)中
-3. 使用babel把jsx语法转化成React.createElement的形式就可以使用node直接执行
+2. 使用vite来进行
+3. 输出html文件
 
 ## 思考
 
