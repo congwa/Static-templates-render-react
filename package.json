@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build", // npm run build 之后， 要进行在dist中输出一个index.html文件
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
